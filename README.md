@@ -1,6 +1,6 @@
 # goit-nodejs-hw-01-cli-application
 
-- Скриншоти запуску команд в терміналі з результатом виконання кожної команди знаходяться по посиланню. В файлі './db/contacts.json' 
+- Скриншоти запуску команд в терміналі з результатом виконання кожної команди знаходяться по посиланню https://monosnap.com/list/641d8ceb1496a515b01daeba. В файлі './db/contacts.json' 
 
 <a href="https://monosnap.com/list/641d8ceb1496a515b01daeba">
 
